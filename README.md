@@ -14,3 +14,26 @@ We may not be able to mark your work if it is made with a different version of U
 
 You may have to select the 'silicon' version if you are using a Mac with an M1/M2/M3 chip (this is in most Macs from 2021 onwards)
 
+# Unity Help
+
+Unity documentation
+
+https://docs.unity3d.com/
+
+
+Unity learn 
+
+https://learn.unity.com/
+
+
+
+Linked in learning
+
+https://www.linkedin.com/learning/unity-2023-essential-training/visualize-a-house-project-with-unity-2023?u=56744785
+
+
+Unity forums (the stackoverflow of Unity)
+
+https://answers.unity.com/ 
+
+https://forum.unity.com/ 
