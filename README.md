@@ -2,11 +2,11 @@
 # Install Unity on your own machine
 
 If you would like to install Unity3d on your own machine please follow the guide linked below (PDF).   
-[Install-Unity-6000.1.9f1.pdf](Install-Unity-6000.1.9f1.pdf)   
+[Install-Unity-6000.3.9f1.pdf](Install-Unity-6000.3.9f1.pdf)   
 
 The install is over 10gb (depending on platform) and we are only using the following versions.
 
-## Unity 6000.1.9f1
+## Unity 6000.3.9f1
 
 it is important to install this Mac / Pc version and no other version.   
 Often Unity projects are not very compatible between versions so it is important to install this Mac / Pc version and no other version.   
