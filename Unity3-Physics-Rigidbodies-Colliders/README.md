@@ -7,6 +7,7 @@ These videos step through the basic ways you can set up and use the physics envi
 3. Rigidbodies and physics properties   
 4. Capturing collisions with a script
 5. Trigger areas.    
+6. Put all this knowledge together to create a ball run exercise.
 
 
 ## 1. Set up
@@ -24,7 +25,7 @@ These videos step through the basic ways you can set up and use the physics envi
 ## 5 Trigger areas
 [<img src="img/unity-physics-5.jpg">](https://uwe.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5e20c16-18e6-4636-9195-b4c001627bf8)
 
-## Exercise: Create a ball run
+## 6 Exercise: Create a ball run
 <img src="img/ball-run.png">
 Create a ball run!   
 
