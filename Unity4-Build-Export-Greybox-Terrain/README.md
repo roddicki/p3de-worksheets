@@ -3,7 +3,7 @@
 In 3D production, often creating a simplified version of an environment before we start working with assets or producing is part of the workflow. 
 This is called greyboxing. Using simple primitive objects: cubes, cylinder, planes to block out a scene.
 
-## This video demonstration will show you how to block out a scene.
+## This video will show you how to block out a scene.
 [<img src="img/unity-greybox-1.jpg">](https://uwe.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e02a261b-1285-43cf-b105-b4a900bb7580)  
 
 
