@@ -9,7 +9,7 @@ This is called greyboxing. Using simple primitive objects: cubes, cylinder, plan
 
 
 # Introduction to Terrain in Unity.  
-In the previous video, I demonstrated how to block out an environment on a flat plane. When working with 3D environments, however, sometimes working on a flat plane is not suitable, for example when producing outdoor, rugged or natural areas. In these demonstrations, I'll show you how to use the Unity Terrain Tool,
+In the previous video, you learned how to block out an environment on a flat plane. When working with 3D environments, however, sometimes working on a flat plane is not suitable, for example when producing outdoor, rugged or natural areas. In these videos you will learn how to use the Unity Terrain Tool,
 
 1. Introduction to the Terrain tool.   
 2. Creating terrain
