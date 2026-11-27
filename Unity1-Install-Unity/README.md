@@ -8,7 +8,7 @@ The install is over 10gb (depending on platform) and we are only using the follo
 
 ## Unity 6000.3.9f1
 
-it is important to install this Mac / Pc version and no other version.   
+Please install Unity 6000.3.9f1 and no other version.   
 Often Unity projects are not very compatible between versions so it is important to install this Mac / Pc version and no other version.   
 We may not be able to mark your work if it is made with a different version of Unity.
 
